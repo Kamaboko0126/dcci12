@@ -1,0 +1,30 @@
+@media (max-width:600px) {
+    .Title {
+        font-size: 20px;
+    }
+
+    .Char {
+        font-size: 15px;
+    }
+
+    .Phone {
+        display: inline-block;
+    }
+
+    .Pad{
+        display: none;
+    }
+    .Phone{
+        display: inline-block;
+    }
+    .AlbumTitle{
+        margin-top: 20%;
+    }
+    .bottomphone{
+        margin-top: 0;
+    }
+    .AidoruBackground {
+        padding-bottom: 35%;
+        margin-top: 50px;
+    }
+}

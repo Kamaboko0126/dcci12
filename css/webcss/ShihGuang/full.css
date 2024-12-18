@@ -1,0 +1,219 @@
+@media (min-width:1422px) {}
+
+.Banner {
+    text-align: center;
+}
+
+.BannerPic {
+    width: 100%;
+    max-width: 1422px;
+}
+
+.AboutUs {
+    text-align: center;
+}
+
+.Char {
+    width: 1150px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.Left {
+    width: 850px;
+    float: left;
+    text-align: left;
+}
+
+.LeftCharTitle {
+    display: inline-block;
+}
+
+.LeftTitleBlock {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.Title {
+    font-size: 40px;
+    font-family: Microsoft JhengHei;
+    font-weight: bolder;
+}
+
+.LeftChar {
+    background-color: #BDA88F;
+    padding: 20px 40px;
+}
+
+.char {
+    font-size: 25px;
+    font-family: Microsoft JhengHei;
+    font-weight: bolder;
+}
+
+.RightCharPic {
+    float: right;
+    width: 200px;
+    margin-top: 12.5px;
+}
+
+.RightPic {
+    margin-top: 12.5px;
+    margin-left: 60px;
+    width: 240px;
+}
+
+.bottom {
+    float: right;
+}
+
+.PAD, .PHONE {
+    display: none;
+}
+
+.PcMemberPic {
+    max-width: 1150px;
+}
+
+.Member {
+    text-align: center;
+}
+
+.MemberTitle {
+    display: inline-block;
+    text-align: left;
+    max-width: 1150px;
+    width: 80%;
+    margin-bottom: 30px;
+}
+
+.CommodityBlock {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.CommodityBackGround {
+    background-color: #BDA88F;
+    width: 1150px;
+    display: inline-block;
+}
+
+.Commoditys {
+    display: inline-block;
+}
+
+.commoditys {
+    width: 345px;
+    display: inline-block;
+    margin-top: 25px;
+}
+
+.commodityBlock {
+    width: 20px;
+    display: inline-block;
+}
+
+.CharBlock {
+    text-align: center;
+}
+
+.chars {
+    display: inline-block;
+    margin-top: 20px;
+    text-align: left;
+    width: 1090px;
+    background-color: rgba(232, 232, 232, 0.56);
+    margin-bottom: 40px;
+}
+
+.CommodityChar {
+    display: inline-block;
+    font-size: 25px;
+    font-family: Microsoft JhengHei;
+    font-weight: bolder;
+    position: relative;
+}
+
+.Char1 {
+    left: 75px;
+}
+
+.Char2 {
+    left: 250px;
+}
+
+.Char3 {
+    left: 400px;
+}
+
+.bottom {
+    position: relative;
+    margin-top: 130px;
+}
+
+.IGPic {
+    width: 300px;
+    display: inline-block;
+}
+
+.IG {
+    text-align: left;
+}
+
+.IGPic2 {
+    margin-left: 50px;
+}
+
+.IGBlock {
+    width: 1090px;
+    display: inline-block;
+    text-align: left;
+}
+
+.IGLeft {
+    float: left;
+    width: 700px;
+}
+
+.IGChars {
+    margin-top: 20px;
+    width: 655px;
+    background-color: rgba(232, 232, 232, 0.56);
+}
+.IGChar{
+    display: inline-block;
+    font-size: 25px;
+    font-family: Microsoft JhengHei;
+    font-weight: bolder;
+    
+}
+.IGChar1{
+    margin-left: 30px;
+}
+.IGChar2{
+    margin-left: 190px;
+}
+.IGRight {
+    width: 250px;
+    text-align: center;
+    float: right;
+    margin-right: 50px;
+}
+
+.QRCode {
+    width: 250px;
+    display: inline-block;
+}
+
+.QRcodeChar {
+    display: inline-block;
+    font-size: 25px;
+    font-family: Microsoft JhengHei;
+    font-weight: bolder;
+    background-color: rgba(232, 232, 232, 0.56);
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

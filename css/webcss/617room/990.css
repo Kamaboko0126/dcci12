@@ -1,0 +1,16 @@
+@media (max-width:990px) {
+    .Title {
+        font-size: 30px;
+    }
+
+    .Char {
+        font-size: 20px;
+    }
+
+    .Background {
+        margin-top: 80px;
+    }
+    .bottompad{
+        margin-top: 0;
+    }
+}

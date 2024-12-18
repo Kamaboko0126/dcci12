@@ -1,0 +1,81 @@
+@media (max-width:600px) {
+    .Title {
+        font-size: 20px;
+    }
+
+    .Char {
+        font-size: 14px;
+    }
+
+    .bottomphone {
+        margin-top: 150px;
+    }
+
+    .IntroductionBlock {
+        background-color: #919C93;
+        width: 80%;
+    }
+
+    .IntroductionBackground {
+        margin-top: 10%;
+        background-color: white;
+    }
+
+    .IntroductionLeft {
+        width: 100%;
+    }
+
+    .IntroductionRight {
+        width: 100%;
+    }
+
+    .Left {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .Right {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 5%;
+    }
+
+    .ProductChar {
+        padding: 2% 0;
+    }
+
+    .Products {
+        width: 80%;
+    }
+
+    .ProductTitle {
+        margin: 15% 0 10% 0;
+    }
+
+    .PC {
+        display: none;
+    }
+
+    .Pad {
+        display: inline-block;
+        width: 100%;
+    }
+
+    .ContactMiddle {
+        width: 70%;
+        margin: 5% 0;
+    }
+
+    .ContactLeft {
+        width: 35%;
+        margin-top: 10%;
+    }
+
+    .ContactRight {
+        width: 35%;
+        margin-left: 15%;
+    }
+    .Banner{
+        margin-top: 30px;
+    }
+}

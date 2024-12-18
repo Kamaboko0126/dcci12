@@ -1,0 +1,47 @@
+@media (max-width:768px) {
+    .Width {
+        width: 500px;
+    }
+    .AboutPic{
+        padding-top: 60px;
+    }
+
+    .Title {
+        font-size: 20px;
+        margin: 15px 0 0 0;
+    }
+
+    .AboutTitle {
+        margin: 12px 0;
+    }
+
+    .Char {
+        font-size: 15px;
+    }
+
+    .SeasonsBackground {
+        height: 480px;
+    }
+
+    .Pic {
+        width: 110%;
+        margin-top: 242px;
+    }
+
+    .MembersPicPad {
+        display: inline-block;
+        width: 450px;
+    }
+    .MembersPic,.MembersPicPhone{
+        display: none;
+    }
+    .MemberTitle{
+        margin: 15px 0;
+    }
+    .bottompad{
+        margin-top: 140px;
+    }
+    .AboutUsBody {
+        margin-top: 0px;
+    }
+}

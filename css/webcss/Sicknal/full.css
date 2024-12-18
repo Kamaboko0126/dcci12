@@ -1,0 +1,93 @@
+.SicknalBody {
+    width: 100%;
+    background-color: black;
+    text-align: center;
+}
+
+.Block {
+    width: 100%;
+    max-width: 1422px;
+}
+
+.Display {
+    display: inline-block
+}
+
+.Logo {
+    width: 55%;
+    margin: 8%;
+}
+
+.Pic {
+    width: 100%;
+}
+
+.Post {
+    width: 55%;
+}
+
+.Char {
+    color: #FC0047;
+    font-size: 25px;
+    font-family: Microsoft JhengHei;
+    margin: 10% 0;
+}
+
+.Albums {
+    width: 80%;
+}
+
+.Album {
+    width: 45%;
+}
+
+.MarginLeft {
+    margin-left: 5%;
+}
+
+.Slogan {
+    width: 80%;
+    margin: 30% 0;
+}
+
+.Logo2 {
+    width: 80%;
+}
+
+.MembersPic {
+    width: 90%;
+}
+
+.Member {
+    width: 30%;
+}
+
+.MemberMarginLeft {
+    margin-left: 4%;
+}
+
+.MemberBlock {
+    margin: 10% 0;
+}
+
+.MembersMarginTop {
+    margin-top: 5%;
+}
+
+.F {
+    width: 33%;
+}
+
+.Bottom {
+    width: 90%;
+    padding-bottom: 12%;
+}
+
+.Pad, .Phone {
+    display: none;
+}
+
+.bottom {
+    margin-top: 0px;
+    position: relative;
+}

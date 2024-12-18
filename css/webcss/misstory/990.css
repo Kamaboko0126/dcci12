@@ -1,0 +1,49 @@
+@media (max-width:990px) {
+    .PC {
+        display: none;
+    }
+
+    .Pad {
+        display: inline-block;
+    }
+
+    .Title {
+        font-size: 30px;
+    }
+
+    .Char {
+        font-size: 20px;
+    }
+
+    .Left {
+        width: 45%;
+    }
+
+    .Right {
+        width: 45%;
+    }
+
+    .ProductMarginLeft {
+        margin-left: 3%;
+    }
+
+    .ProductTop {
+        width: 45%;
+    }
+
+    .ProductBottom {
+        width: 70%;
+    }
+    .Member{
+        width: 45%;
+    }
+    .MemberMarginLeft{
+        margin-left: 3%;
+    }
+    .FirstTitleBlock{
+        margin-top: 80px;
+    }
+    .bottompad{
+        margin-top: 120px;
+    }
+}

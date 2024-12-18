@@ -1,0 +1,43 @@
+@media (max-width:600px) {
+    .TEXT {
+        margin-top: 42px;
+    }
+    .BANNER {
+        width: 100%;
+        max-width: 1422px;
+    }
+    .bottomphone {
+        margin-top: 170px;
+    }
+    .textchar {
+        font-size: 16px;
+        color: #004156;
+        font-family: Microsoft JhengHei;
+        z-index: 5;
+    }
+    .CHAR {
+        position: relative;
+        left: calc(50% - 199.5px);
+        width: 399px;
+        margin-top: 50px;
+    }
+    .ICON {
+        margin-top: 40px;
+        width: 399px;
+    }
+    .Title {
+        position: relative;
+        left: 44px;
+        top: -30px;
+    }
+    .Text{
+        position: relative;
+        top: -20px;
+    }
+    .Banner{
+        text-align: center;
+    }
+    .Icon{
+        width: 399px;
+    }
+}

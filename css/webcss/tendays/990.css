@@ -1,0 +1,51 @@
+@media (max-width:990px) {
+    .BackgroundImg {
+        margin-top: 80px;
+    }
+
+    .PC {
+        display: none;
+    }
+
+    .Pad {
+        display: inline-block;
+    }
+
+    .PadShow {
+        display: inline-block;
+    }
+
+    .Char {
+        font-size: 20px;
+    }
+
+    .PadTitle {
+        width: 35%;
+        margin-top: 5%;
+        margin-left: -0.2%;
+    }
+
+    .TitlePicMargintop {
+        margin-top: 3%;
+    }
+
+    .Member {
+        width: 30%;
+    }
+
+    .Marginleft {
+        margin-left: 2%;
+    }
+
+    .bottompad {
+        margin-top: 0;
+    }
+
+    .WhiteBackground {
+        padding-bottom: 20%;
+    }
+
+    .Title {
+        font-size: 25px;
+    }
+}

@@ -1,0 +1,148 @@
+.Pad, .Phone {
+    display: none;
+}
+
+.AidoruBackground {
+    background-color: #0F0F0F;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    padding-bottom: 12%;
+}
+
+.Block {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+
+.MaxWidth {
+    display: inline-block;
+    text-align: center;
+    max-width: 1422px;
+    width: 100%;
+}
+
+.Display {
+    display: inline-block;
+}
+
+.BannerPic {
+    width: 100%;
+    display: inline-block;
+}
+
+.Width {
+    width: 80%;
+    display: inline-block;
+}
+
+.Left {
+    width: 27.5%;
+    text-align: left;
+    float: left;
+}
+
+.Right {
+    width: 70%;
+    text-align: left;
+    float: right;
+}
+
+.Pic {
+    width: 100%;
+}
+
+.CharBackground {
+    background-color: #DDD;
+    border-radius: 10px;
+}
+
+.Title {
+    color: #FFF;
+    font-size: 30px;
+    margin: 5% 0;
+    text-align: left;
+}
+
+.Char {
+    color: #0F0F0F;
+    font-size: 25px;
+    font-weight: bolder;
+    padding: 2%;
+}
+
+.PostChar {
+    margin-top: 13.5%;
+    font-weight: bolder;
+}
+
+.Left2 {
+    text-align: left;
+    width: 57%;
+    float: left;
+}
+
+.Right2 {
+    width: 40%;
+    float: right;
+}
+
+.PostChar2 {
+    margin-top: 15%;
+}
+
+.MemberTitle {
+    margin-top: -3%;
+}
+
+.MembersTop, .MembersBottom {
+    width: 100%;
+    text-align: center;
+}
+
+.Member {
+    display: inline-block;
+    width: 23%;
+}
+
+.MarginLeft {
+    margin-left: 1.5%;
+}
+
+.MembersBottom {
+    margin-top: 2%;
+}
+
+.Left3{
+    width: 60%;
+    margin-left: 5%;
+}
+.Right3{
+    width: 23%;
+}
+.PCAlbum{
+    text-align: left;
+}
+
+.a{
+    position: relative;
+    left: 0;
+    top: 0;
+    text-align: left;
+}
+.aPic{
+    width: 10%;
+    margin: 0 0 -5% 0;
+    margin-left: 2%;
+}
+
+.PadPostTitle{
+    display: none;
+}
+
+@media (max-width:1422px) {
+    .PostChar {
+        margin-top: 10%;
+    }
+}

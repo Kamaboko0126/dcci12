@@ -1,0 +1,67 @@
+@media (max-width:990px) {
+    .PC {
+        display: none;
+    }
+
+    .Pad {
+        display: inline-block;
+    }
+
+    .MemberTitle {
+        margin-top: 10%;
+    }
+
+    .PadMember {
+        width: 49%;
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+    }
+
+    .MembersBottom {
+        text-align: left;
+    }
+
+    .MemberBottomPic {
+        width: 101.5%;
+    }
+
+    .Bag {
+        width: 47%;
+    }
+
+    .PadBag {
+        text-align: left;
+        width: 47%;
+        margin-left: 0.5%;
+        margin-top: 5%;
+    }
+
+    .cosmetic {
+        width: 47%;
+    }
+
+    .Chili {
+        width: 33%;
+    }
+
+    .ChiliMarginLeft {
+        margin-left: 15%;
+    }
+
+    .bottompad {
+        margin-top: 0;
+    }
+
+    .TripleDBackground {
+        padding-bottom: 17%;
+        margin-top: 80px;
+    }
+
+    .BannerPic {
+        margin-bottom: 15%;
+    }
+    .Title{
+        font-size: 30px;
+    }
+}

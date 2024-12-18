@@ -1,0 +1,40 @@
+@media (max-width:600px) {
+    .Pad {
+        display: none;
+    }
+
+    .Phone {
+        display: inline-block;
+    }
+
+    .Char {
+        font-size: 14px;
+    }
+
+    .Title {
+        font-size: 20px;
+    }
+
+    .CarouselTitle {
+        margin-bottom: 6%;
+    }
+
+    .Banner {
+        margin-top: 40px;
+    }
+
+    .Member {
+        width: 90%;
+    }
+
+    .DogPic {
+        width: 85%;
+    }
+
+    .bottomphone {
+        margin-top: -1%;
+    }
+    .Bottom{
+        margin-bottom: 35%;
+    }
+}

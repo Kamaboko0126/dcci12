@@ -1,0 +1,46 @@
+@media (max-width:600px) {
+    .FirstTitleBlock {
+        margin-top: 50px;
+    }
+
+    .PC, .Pad {
+        display: none;
+    }
+
+    .Phone {
+        display: inline-block;
+    }
+
+    .Title {
+        font-size: 25px;
+    }
+
+    .Char {
+        font-size: 14px;
+    }
+
+    .Interface {
+        width: 50%;
+    }
+
+    .InterfaceBlock {
+        margin-top: 10%;
+    }
+
+    .CharacterBlcok {
+        margin-top: 10%;
+    }
+
+    .PhoneProductsTop {
+        width: 50%;
+        margin-bottom: 10%;
+    }
+
+    .PhoneProductsBottom {
+        width: 80%;
+    }
+
+    .Members {
+        width: 80%;
+    }
+}

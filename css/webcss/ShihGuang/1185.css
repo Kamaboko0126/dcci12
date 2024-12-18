@@ -1,0 +1,90 @@
+@media (max-width:1422px) {
+    .MemberTitle {
+        width: 960px;
+    }
+
+    .PcMemberPic {
+        width: 960px;
+    }
+
+    .Char {
+        width: 960px;
+    }
+
+    .Left {
+        width: 700px;
+    }
+
+    .Char1 {
+        left: 65px;
+    }
+
+    .Char2 {
+        left: 160px;
+    }
+
+    .Char3 {
+        left: 250px;
+    }
+
+    .RightPic {
+        width: 240px;
+        margin-left: 20px;
+    }
+
+
+    .CommodityBackGround {
+        width: 960px;
+    }
+
+    .commoditys {
+        width: 280px;
+    }
+
+    .chars {
+        width: 900px;
+    }
+
+    .IGBlock {
+        width: 900px;
+        display: inline-block;
+        text-align: left;
+    }
+
+    .IGLeft {
+        float: left;
+        width: 600px;
+    }
+
+    .IGPic {
+        width: 270px;
+        display: inline-block;
+    }
+
+    .IGPic2 {
+        margin-left: 30px;
+    }
+
+    .IGChars {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 575px;
+        background-color: rgba(232, 232, 232, 0.56);
+    }
+
+    .IGChar2 {
+        margin-left: 125px;
+    }
+
+    .IGRight {
+        width: 260px;
+        text-align: center;
+        float: right;
+        margin-right: 20px;
+    }
+
+    .QRCode {
+        width: 210px;
+        display: inline-block;
+    }
+}

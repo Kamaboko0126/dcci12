@@ -1,0 +1,32 @@
+@media (max-width:768px) {
+    /* .bottom {
+        height: 200px;
+        width: 100vw;
+        background-color: #004156;
+        margin-top: 80px;
+        text-align: center;
+    }
+    .bottomHouse {
+        width: 100%;
+        margin-top: -80px;
+        max-width: 1416px;
+    } */
+    .titleLOGO2{
+        padding-top: 20.5px;
+    }
+    .navbar {
+        top: 66.5px;
+    }
+    .bottom,.bottomphone{
+        display: none;
+    }
+    .navbar-light {
+        font-size: 22px;
+    }
+    .dropdown-item, .dropdown-item:hover {
+        font-size: 17px;
+    }
+    .englishicon{
+        width: 90px;
+    }
+}

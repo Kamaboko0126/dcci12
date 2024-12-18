@@ -1,0 +1,102 @@
+@media (max-width:600px) {
+    .Banner {
+        display: none;
+    }
+
+    .BannerPad {
+        display: block;
+    }
+
+    .BannerImgPad {
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .BannerCharBackground {
+        background-color: #004156;
+        text-align: center;
+    }
+
+    .BannerTitle {
+        border-bottom: 3px #FFF solid;
+        padding-top: 10px;
+    }
+
+    .BannerChar {
+        padding-bottom: 20px;
+    }
+
+    .PadChar {
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+
+    .CharTitle {
+        margin-top: 30px;
+    }
+
+    .ColorTitle {
+        margin-bottom: 30px;
+    }
+
+    .ColorPic {
+        display: none;
+    }
+
+    .ColorImg {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+
+    .PhoneColor {
+        display: inline-block;
+        width: 100%;
+    }
+
+    .PhoneRoomImg {
+        width: 80%;
+        display: inline-block;
+    }
+
+    .PhoneRoom {
+        width: 65%;
+    }
+
+    .RoomCharBlock, .RoomPic {
+        display: none;
+    }
+
+    .bottomphone {
+        position: relative;
+        float: left;
+        margin-top: 0px;
+    }
+
+    .PhoneRoomChar {
+        margin-top: 30px;
+        margin-bottom: 60px;
+        color: #004156;
+        text-align: center;
+    }
+
+    .VersionChar {
+        font-family: Microsoft JhengHei;
+        font-size: 15px;
+    }
+
+    .Title {
+        font-size: 20px;
+        font-family: Simsun;
+    }
+
+    .PhoneMemberPic {
+        width: 50%;
+        max-width: 1200px;
+        margin-bottom: 220px;
+        display: inline-block;
+    }
+
+    .MemberPic, .PadMemberPic {
+        display: none;
+    }
+}

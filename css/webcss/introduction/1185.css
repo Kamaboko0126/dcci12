@@ -1,0 +1,56 @@
+@media (max-width:1185px) {
+    .AboutBody {
+        margin-top: 30px;
+    }
+    .AboutBackground {
+        width: 100%;
+        background-color: #004156;
+        height: 1600px;
+    }
+    .BackgroundImg {
+        width: 1000px;
+        position: relative;
+        left: calc(50% - 500px);
+    }
+    .Char {
+        position: relative;
+        margin-top: -1330px;
+        width: 800px;
+        left: calc(50% - 400px);
+    }
+    .AboutTitle {
+        font-size: 35px;
+        color: #004156;
+        font-family: Simsun;
+        border-bottom: 2px #004156 solid;
+    }
+    .AboutChar {
+        font-family: Microsoft JhengHei;
+        font-size: 22px;
+    }
+    .AboutLittleTitle {
+        border-left: 2px #000 solid;
+        line-height: 20px;
+        padding-left: 5px;
+        margin-bottom: 8px;
+        font-family: Microsoft JhengHei;
+        font-size: 23px;
+    }
+    .AboutLittleChar {
+        font-family: Microsoft JhengHei;
+        margin-left: 5px;
+        font-size: 22px;
+    }
+    .Slogan {
+        position: relative;
+        margin-top: 100px;
+        width: 750px;
+        left: calc(50% - 375px);
+    }
+    .bottom {
+        position: relative;
+    }
+    .block{
+        display: none;
+    }
+}

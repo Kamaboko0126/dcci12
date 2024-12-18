@@ -1,0 +1,87 @@
+@media (max-width:990px) {
+    .Title {
+        font-size: 25px;
+    }
+
+    .Char {
+        font-size: 20px;
+    }
+
+    .PC {
+        display: none;
+    }
+
+    .Pad {
+        display: inline-block;
+    }
+
+    .Width {
+        width: 95%;
+    }
+
+    .Member {
+        width: 48%;
+        margin-bottom: 3%;
+    }
+
+    .MarginLeft {
+        margin-left: 3.5%;
+    }
+
+    .bottompad {
+        margin-top: 0;
+    }
+
+    .AidoruBackground {
+        margin-top: 80px;
+        background-color: #0F0F0F;
+        padding-bottom: 15%;
+    }
+
+    .Left {
+        width: 40%;
+        text-align: center;
+        display: inline-block;
+        float: none;
+    }
+
+    .Right {
+        width: 100%;
+    }
+
+    .PostTitle {
+        display: none;
+    }
+
+    .PadPostTitle {
+        display: block;
+    }
+
+    .PostChar {
+        margin-top: 2%;
+    }
+
+    .Right2 {
+        width: 100%;
+        margin-top: 2%;
+    }
+
+    .Left2 {
+        width: 100%;
+        margin-top: 2%;
+    }
+
+    .PostChar2 {
+        width: 100%;
+        margin-top: 0%;
+    }
+    .MemberTitle{
+        margin-top: 5%;
+    }
+    .AlbumTitle{
+        margin-top: 0;
+    }
+    .PadBanner{
+        margin-top: 5%;
+    }
+}

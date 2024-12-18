@@ -1,0 +1,32 @@
+@media (max-width:1185px) {
+    .Width {
+        width: 900px;
+    }
+
+    .Title {
+        font-size: 30px;
+        margin: 15px 0 0 0;
+    }
+
+    .AboutTitle {
+        margin: 15px 0;
+    }
+
+    .Char {
+        font-size: 21px;
+    }
+
+    .SeasonsBackground {
+        height: 600px;
+    }
+
+    .Pic {
+        width: 105%;
+        margin-top: 192px;
+    }
+
+    .MembersPic {
+        width: 800px;
+        display: inline-block;
+    }
+}

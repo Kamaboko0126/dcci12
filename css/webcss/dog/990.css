@@ -1,0 +1,41 @@
+@media (max-width:990px) {
+    .PC {
+        display: none;
+    }
+
+    .Pad {
+        display: inline-block;
+    }
+
+    .Title {
+        font-size: 30px;
+    }
+
+    .Char {
+        font-size: 20px;
+    }
+
+    .Product {
+        width: 42%;
+    }
+
+    .Member {
+        width: 43%;
+    }
+
+    .DogPic {
+        margin-bottom: -10%;
+    }
+
+    .bottompad {
+        margin-top: -1%;
+    }
+
+    .Banner {
+        margin-top: 80px;
+    }
+
+    .Bottom {
+        margin: 3% 0 12% 0;
+    }
+}

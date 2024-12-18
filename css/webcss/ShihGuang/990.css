@@ -1,0 +1,125 @@
+@media (max-width:1185px) {
+    .Char {
+        width: 800px;
+        display: inline-block;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .Left {
+        width: 540px;
+
+    }
+
+    .Title {
+        font-size: 35px;
+    }
+
+    .LeftChar {
+        padding: 16px 32px;
+    }
+
+    .char {
+        font-size: 22px;
+    }
+
+    .RightPic {
+        margin-top: 12.5px;
+        margin-left: 0px;
+        width: 240px;
+    }
+
+    .RightCharPic {
+        width: 180px;
+        margin-top: 12.5px;
+    }
+
+    .MemberTitle {
+        max-width: 800px;
+        margin-bottom: 10px;
+    }
+
+    .PcMemberPic {
+        max-width: 800px;
+    }
+
+    .CommodityBackGround {
+        width: 800px;
+        margin-bottom: 30px;
+    }
+
+    .commoditys {
+        width: 240px;
+    }
+
+    .commodityBlock {
+        width: 12px;
+    }
+
+    .chars {
+        width: 760px;
+    }
+
+    .Char1 {
+        left: 55px;
+    }
+
+    .Char2 {
+        left: 125px;
+    }
+
+    .Char3 {
+        left: 180px;
+    }
+
+    .CommodityChar {
+        font-size: 22px;
+    }
+
+    .IGBlock {
+        width: 760px;
+    }
+
+    .IGLeft {
+        width: 500px;
+    }
+
+    .IGPic {
+        width: 230px;
+    }
+
+    .IGPic2 {
+        margin-left: 20px;
+    }
+
+    .IGChars {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        width: 485px;
+    }
+
+    .IGChar {
+        font-size: 22px;
+    }
+
+    .IGChar1 {
+        margin-left: 20px;
+    }
+
+    .IGChar2 {
+        margin-left: 100px;
+    }
+    .QRCode {
+        width: 180px;
+    }
+    .IGRight {
+        width: 260px;
+        text-align: center;
+        float: right;
+        margin-right: 0px;
+    }
+    .QRcodeChar{
+        width: 200px;
+        font-size: 22px;
+    }
+}

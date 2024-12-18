@@ -1,0 +1,170 @@
+.Block {
+    width: 100%;
+    text-align: center;
+}
+
+.MaxWidth {
+    width: 100%;
+    max-width: 1422px;
+    text-align: center;
+    display: inline-block;
+}
+
+.Width {
+    display: inline-block;
+    text-align: center;
+    width: 80%;
+}
+
+.Pic {
+    width: 100%;
+    display: inline-block;
+}
+
+.Pad, .Phone {
+    display: none;
+}
+
+.CharPic {
+    margin-top: 5%;
+}
+
+.RolePic {
+    margin-top: 5%;
+}
+
+.Role{
+    display: inline-block;
+    text-align: center;
+}
+
+.RoleIntroduction {
+    width: 28%;
+    display: inline-block;
+    text-align: left;
+    color: #754C24;
+    font-size: 25px;
+    float: left;
+}
+
+.Marginleft {
+    margin-left: 5%;
+}
+
+.Sleepdog {
+    text-align: right;
+}
+
+.SleepdogPic {
+    width: 25%;
+    margin: 5% -12% -18% 0;
+}
+
+.CarouselChars {
+    text-align: left;
+}
+
+.CarouselTitle {
+    margin: 3% 0;
+}
+
+.Title {
+    font-size: 40px;
+    color: #754C24;
+    font-weight: bolder;
+}
+
+.Char {
+    font-size: 25px;
+    color: #754C24;
+}
+
+.Acolor {
+    color: #754C24;
+}
+
+.Acolor:hover {
+    color: #754c24;
+}
+
+.Acolor:visited {
+    color: #754c24;
+}
+
+.BonePic {
+    margin: 8% 0;
+}
+
+.Products {
+    display: inline-block;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.Product {
+    display: inline-block;
+    width: 28%;
+}
+
+.ProductMarginleft {
+    margin-left: 2%;
+}
+
+.ShopTitle {
+    margin-top: 5%;
+}
+
+.Dog {
+    text-align: left;
+    display: inline-block;
+    position: relative;
+    margin-top: -6%;
+    margin-bottom: -20%;
+    z-index: -1;
+}
+
+.DogPic {
+    width: 40%;
+}
+
+.PC {
+    display: inline-block
+}
+
+.MarginBottom {
+    margin-bottom: -15%;
+}
+
+.Members {
+    display: inline-block;
+    text-align: center;
+}
+
+.Member {
+    width: 30%;
+    display: inline-block;
+}
+
+.Bottomdog {
+    width: 38%;
+    display: inline-block;
+}
+
+.QRcode {
+    width: 10%;
+    display: inline-block;
+    margin: 0 5%;
+}
+
+.Bottom {
+    margin: 3% 0 2% 0;
+}
+
+.bottom {
+    margin-top: -1%;
+}
+
+.RoleIntroduction {
+    margin-bottom: 4%;
+    margin-top: 2%;
+}

@@ -1,0 +1,34 @@
+@media (max-width:600px) {
+    .SicknalBody {
+        margin-top: 50px;
+    }
+
+    .Char {
+        font-size: 14px;
+    }
+
+    .bottomphone {
+        margin-top: 0;
+    }
+
+    .Bottom {
+        padding: 30% 0 38% 0;
+    }
+
+    .Slogan {
+        margin: 15% 0;
+    }
+
+    .Pad, .PC {
+        display: none;
+    }
+
+    .Phone {
+        display: inline-block;
+    }
+
+    .Member {
+        width: 60%;
+        margin-top: 15%;
+    }
+}

@@ -1,0 +1,61 @@
+@media (min-width:990px) {
+    .Poster {
+        -webkit-filter: grayscale(1);
+    }
+
+    .Pad {
+        display: none;
+    }
+}
+
+.Banner {
+    width: 100%;
+    max-width: 1422px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.BannerBlock {
+    text-align: center;
+}
+
+.IndexBody {
+    width: 100%;
+    text-align: center;
+}
+
+.Rooms {
+    width: 90%;
+    border: #004156 5px solid;
+    display: inline-block;
+}
+
+.IconPic {
+    width: 30%;
+    transform: translate(0, 30%);
+    position: relative;
+    z-index: 5;
+    margin-top: 1%;
+}
+
+.Poster {
+    width: 20%;
+    position: relative;
+    padding: 5% 0 2% 0;
+}
+
+.Poster:hover {
+    -webkit-filter: grayscale(0);
+}
+
+.MarginLeft {
+    margin-left: 2%;
+}
+
+.bottom {
+    position: relative;
+    margin-top: 150px;
+}
+.PhoneBanner{
+    display: none;
+}

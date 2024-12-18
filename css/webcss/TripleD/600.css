@@ -1,0 +1,43 @@
+@media (max-width:600px) {
+    .TripleDBackground {
+        padding-bottom: 35%;
+        margin-top: 50px;
+    }
+
+    .Pad, .Phonenone {
+        display: none;
+    }
+
+    .Phone {
+        display: inline-block;
+    }
+
+    .BannerPic {
+        margin-bottom: 12%;
+    }
+
+    .MemberTitle {
+        margin-top: 10%;
+    }
+
+    .SPhoneMember {
+        width: 101.5%;
+        margin-left: -1.5%;
+    }
+
+    .Bag, .cosmetic {
+        width: 100%;
+        margin-top: 7%;
+    }
+
+    .Chili {
+        width: 80%;
+    }
+
+    .bottomphone {
+        margin-top: 0;
+    }
+    .Title{
+        font-size: 20px;
+    }
+}

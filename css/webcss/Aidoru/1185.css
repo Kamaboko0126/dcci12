@@ -1,0 +1,13 @@
+@media (max-width:1185px) {
+    .Title {
+        font-size: 27px;
+    }
+
+    .Char {
+        font-size: 23px;
+    }
+
+    .bottom {
+        margin-top: 0;
+    }
+}

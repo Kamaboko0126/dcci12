@@ -1,0 +1,234 @@
+.Background {
+    text-align: center;
+    background: linear-gradient(#111455 0%, #EBEBEB 56.5178%, #F5CBB9 68.0633%, #EBEBEB 76.2571%, #B8B6D9 100%);
+    width: 100%;
+    padding-bottom: 5%;
+}
+
+.Background2 {
+    text-align: center;
+    background: linear-gradient(#111455 0%, #B8B6D9 100%);
+    width: 100%;
+    padding-bottom: 20%;
+}
+
+.Block {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+
+.MaxWidth {
+    width: 100%;
+    max-width: 1422px;
+    text-align: center;
+    display: inline-block;
+}
+
+.Width {
+    width: 85%;
+    text-align: center;
+    display: inline-block;
+}
+
+.BannerPic, .CharPic, .SocialMediaPic {
+    display: inline-block;
+    width: 100%;
+    max-width: 1422px;
+}
+
+.Pic {
+    width: 100%;
+    display: inline-block;
+}
+
+.TitlePic {
+    display: inline-block;
+}
+
+.SaleTeamTitle {
+    width: 60%;
+}
+
+.SaleTeamPic {
+    margin: 10% 0;
+}
+
+.Member {
+    width: 16%;
+    display: inline-block;
+}
+
+.MemberTitle {
+    color: #FFF;
+    margin: 5% 0 10% 0;
+}
+
+.MemberChar {
+    color: #FFF;
+}
+
+.MemberMarginleft {
+    margin-left: 5%;
+}
+
+.SocialMediaTitle {
+    margin-top: -10%;
+    margin-bottom: -10%;
+}
+
+.Title {
+    font-size: 40px;
+}
+
+.Char {
+    font-size: 25px;
+}
+
+.QRcodes {
+    display: inline-block;
+    width: 100%;
+}
+
+.QRcode {
+    width: 20%;
+    display: inline-block;
+}
+
+.QRcodeMarginleft {
+    margin-left: 14%;
+}
+
+.Monsters {
+    display: inline-block;
+    margin: 5% 0;
+}
+
+.MonstersChar {
+    color: #FFF;
+    margin: 5% 0;
+}
+
+.MonstersPic {
+    width: 30%;
+}
+
+.RoleTitle {
+    width: 65%;
+}
+
+.Role {
+    width: 100%;
+    display: inline-block;
+    margin: 10% 0;
+}
+
+.AnimeTitle {
+    width: 65%;
+}
+
+.AnimePost {
+    margin: 8% 0;
+}
+
+.AnimeCharPic {
+    margin-bottom: -55%;
+    color: 333333;
+}
+
+.ProductTitlePicBlock {
+    width: 65%;
+    margin-top: 30%;
+}
+
+.ProductTitle {
+    margin: 8% 0;
+}
+
+.ProductTitle1 {
+    color: #808080;
+}
+
+.ProductTitle2 {
+    color: #938075;
+}
+
+.ProductTitle3 {
+    color: #FFF;
+}
+
+.ProductChar1 {
+    background-color: #B2B2B2;
+    width: 50%;
+    display: inline-block;
+    padding: 2% 0;
+    color: #FFF;
+    margin: 8% 0;
+}
+
+.Product {
+    width: 95%;
+    display: inline-block;
+}
+
+.CharBackground {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    background-color: #EEEEF4;
+    margin-bottom: 8%;
+}
+
+.ProductChar2 {
+    width: 40%;
+    color: #111455;
+    display: inline-block;
+    padding: 4% 0;
+}
+
+.PhotoTitle {
+    width: 60%;
+    margin: 20% 0 10% 0;
+}
+
+.PhotosBlock {
+    width: 95%;
+    display: inline-block;
+}
+
+.Photos{
+    width: 100%;
+}
+
+.Photo{
+    width: 47%;
+    display: inline-block;
+}
+
+.PhotoMarginleft{
+    margin-left: 5%;
+    margin-bottom: 4%;
+}
+
+.SPhoto{
+    margin-bottom: 4%;
+}
+
+
+.BottomPic {
+    width: 30%;
+    margin-top: 15%;
+}
+
+.BottomChar {
+    color: #FFF;
+    margin-top: 5%;
+}
+
+.bottom {
+    margin-top: 0px;
+}
+
+.Phone{
+    display: none;
+}

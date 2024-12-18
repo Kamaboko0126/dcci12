@@ -1,0 +1,53 @@
+@media (max-width:600px) {
+    .PC {
+        display: none;
+    }
+
+    .Phone {
+        display: inline-block;
+    }
+
+    .Pic {
+        margin-top: 0;
+        width: 100%;
+    }
+
+    .PhoneSeasonsBackground {
+        width: 100%;
+        text-align: center;
+    }
+
+    .PhoneWidth {
+        display: inline-block;
+        width: 300px;
+        text-align: left;
+    }
+
+
+    .Pic2 {
+        margin: 20px 0;
+    }
+
+    .Title {
+        font-size: 20px;
+        margin: 15px 0 0 0;
+    }
+
+    .Char {
+        font-size: 15px;
+    }
+
+    .AboutChar {
+        margin: 20px 0 10px 0;
+        line-height: 30px;
+    }
+
+    .ProductIntroduction {
+        margin: 20px 0;
+    }
+
+    .MembersPicPhone {
+        width: 120px;
+        display: inline-block;
+    }
+}

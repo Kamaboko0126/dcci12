@@ -1,0 +1,39 @@
+@media (max-width:990px) {
+    .Banner {
+        margin-top: 80px;
+    }
+
+    .PC {
+        display: none;
+    }
+
+    .IconPic {
+        width: 45%;
+        transform: translate(0, 30%);
+        position: relative;
+        z-index: 5;
+        margin-top: 1%;
+    }
+
+    .Poster {
+        width: 40%;
+        position: relative;
+        padding: 0 0 0 0;
+    }
+
+    .PadMarginLeft {
+        margin-left: 5%;
+    }
+
+    .PadTop {
+        padding: 8% 0 0 0;
+    }
+
+    .Hidden {
+        opacity: 0;
+    }
+
+    .PadBottom {
+        padding: 3% 0 3% 0;
+    }
+}

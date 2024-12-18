@@ -1,0 +1,62 @@
+@media (max-width:990px) {
+    .AboutBody {
+        margin-top: 100px;
+    }
+    .AboutBackground {
+        width: 100%;
+        background-color: #004156;
+        height: 1600px;
+    }
+    .BackgroundImg {
+        display: none;
+    }
+    .PhoneBackgroundImg {
+        display: none;
+    }
+    .PadBackgroundImg {
+        top: 40px;
+        display: block;
+        width: 700px;
+        position: relative;
+        left: calc(50% - 350px);
+    }
+    .Char {
+        position: relative;
+        margin-top: -1310px;
+        width: 550px;
+        left: calc(50% - 275px);
+    }
+    .AboutTitle {
+        font-size: 30px;
+        color: #004156;
+        font-family: Simsun;
+        border-bottom: 2px #004156 solid;
+    }
+    .AboutChar {
+        font-family: Microsoft JhengHei;
+        font-size: 20px;
+    }
+    .AboutLittleTitle {
+        border-left: 2px #000 solid;
+        line-height: 20px;
+        padding-left: 5px;
+        margin-bottom: 8px;
+        font-family: Microsoft JhengHei;
+        font-size: 20px;
+    }
+    .AboutLittleChar {
+        font-family: Microsoft JhengHei;
+        margin-left: 5px;
+        font-size: 20px;
+    }
+    .Slogan {
+        position: relative;
+        width: 550px;
+        margin-top: 120px;
+        left: calc(50% - 275px);
+    }
+    .bottompad {
+        position: relative;
+        margin-top: 140px;
+    }
+}

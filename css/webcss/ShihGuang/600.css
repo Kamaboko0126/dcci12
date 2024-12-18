@@ -1,0 +1,146 @@
+@media (max-width:768px) {
+    .BannerPic {
+        margin-top: 80px;
+    }
+
+    .Char {
+        width: 490px;
+        display: inline-block;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .Left {
+        width: 240px;
+    }
+
+    .Title {
+        margin-top: 15px;
+        font-size: 25px;
+        margin-bottom: 18px;
+    }
+
+    .LeftChar {
+        padding: 8px 16px;
+    }
+
+    .char {
+        font-size: 15px;
+    }
+
+    .RightPic {
+        margin-top: 12.5px;
+        margin-left: 30px;
+        width: 220px;
+    }
+
+    .RightCharPic {
+        display: none;
+    }
+
+    .PhoneRightCharPic {
+        display: inline-block;
+        width: 220px;
+        margin-left: 30px;
+    }
+
+    .MemberTitle {
+        width: 490px;
+        margin-bottom: 10px;
+    }
+
+    .PcMemberPic {
+        display: none;
+    }
+
+    .PadMemberPic {
+        display: inline-block;
+        width: 490px;
+    }
+
+    .CommodityBackGround {
+        width: 490px;
+        margin-bottom: 20px;
+    }
+
+    .commoditys {
+        width: 140px;
+    }
+
+    .commodityBlock {
+        width: 8px;
+    }
+
+    .chars {
+        width: 460px;
+    }
+
+    .Char1 {
+        left: 40px;
+    }
+
+    .Char2 {
+        left: 70px;
+    }
+
+    .Char3 {
+        left: 90px;
+    }
+
+    .CommodityChar {
+        font-size: 15px;
+    }
+
+    .IGBlock {
+        width: 460px;
+    }
+
+    .IGLeft {
+        width: 300px;
+    }
+
+    .IGPic {
+        width: 140px;
+    }
+
+    .IGPic2 {
+        margin-left: 10px;
+    }
+
+    .IGChars {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        width: 295px;
+    }
+
+    .IGChar {
+        font-size: 15px;
+    }
+
+    .IGChar1 {
+        margin-left: 5px;
+    }
+
+    .IGChar2 {
+        margin-left: 50px;
+    }
+
+    .QRCode {
+        width: 120px;
+    }
+
+    .IGRight {
+        width: 150px;
+        text-align: center;
+        float: right;
+        margin-right: 0px;
+    }
+
+    .QRcodeChar {
+        width: 150px;
+        font-size: 15px;
+    }
+    .bottomphone{
+        margin-top: 130px;
+    }
+}

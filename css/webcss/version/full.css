@@ -1,0 +1,193 @@
+@media (min-width: 1422px) {
+    .BannerCharBlock {
+        text-align: left;
+        max-width: 1200px;
+    }
+}
+
+/* Banner */
+.Banner {
+    text-align: center;
+}
+
+.BannerImg {
+    max-width: 1422px;
+    width: 100%;
+    position: relative;
+    margin-top: -413.844px;
+}
+
+.BannerBackground {
+    width: 100%;
+    background-color: #004156;
+    text-align: center;
+}
+
+.BannerBackground2 {
+    width: 100%;
+    height: 413.844px;
+    background-color: #E1D36F;
+}
+
+.BannerCharBackground {
+    background-color: #004156;
+    width: 100%;
+}
+
+.BannerCharBlock {
+    text-align: left;
+    width: 80%;
+    position: relative;
+    display: inline-block;
+}
+
+.BannerTitle {
+    padding-top: 50px;
+    color: #FFF;
+    border-bottom: 3px #FFF solid;
+    padding-bottom: 10px;
+}
+
+.BannerChar {
+    margin-top: 20px;
+    color: #FFF;
+    padding-bottom: 50px;
+}
+
+.BannerPad {
+    display: none;
+}
+
+
+/* Char */
+.Char {
+    text-align: center;
+}
+
+.PcChar {
+    max-width: 1200px;
+    width: 80%;
+    position: relative;
+    margin-bottom: 80px;
+}
+
+.PadChar {
+    display: none;
+}
+
+/* Color */
+.Color {
+    background-color: #004156;
+    text-align: center;
+    float: left;
+    width: 100%;
+}
+
+.ColorImg {
+    width: 50%;
+    display: inline-block;
+    max-width: 600px;
+    margin-bottom: 80px;
+}
+
+.ColorPic {
+    width: 20%;
+    margin-left: 4%;
+    float: left;
+}
+
+.PhoneColor {
+    display: none;
+}
+
+
+/* Room */
+.Room {
+    width: 100%;
+    float: left;
+    background-color: #FFF;
+    text-align: center;
+}
+
+.RoomPic {
+    width: 70%;
+}
+
+.RoomCharBlock {
+    text-align: center;
+    display: inline-block;
+    width: 80%;
+}
+
+.RoomChar {
+    float: left;
+    width: 30%;
+    margin-left: 3%;
+    text-align: left;
+    color: #004156;
+    margin-top: 50px;
+}
+
+.RoomCharBlock {
+    margin-bottom: 80px;
+}
+
+.PhoneRoomImg {
+    display: none;
+}
+
+.Member {
+    width: 100%;
+    background-color: #004156;
+    text-align: center;
+}
+
+.MemberPic{
+    width: 80%;
+    max-width: 1200px;
+    margin-bottom: 150px;
+}
+.PadMemberPic,.PhoneMemberPic{
+    display: none;
+}
+
+/* Title & Char */
+.BlueTitle {
+    margin-top: 50px;
+    color: #004156;
+    text-align: left;
+    width: 80%;
+    display: inline-block;
+    max-width: 1200px;
+    border-bottom: 3px #004156 solid;
+    padding-bottom: 10px;
+    margin-bottom: 70px;
+}
+
+.WhiteTitle {
+    text-align: left;
+    padding-top: 50px;
+    color: #FFF;
+    border-bottom: 3px #FFF solid;
+    width: 80%;
+    display: inline-block;
+    margin-bottom: 70px;
+    max-width: 1200px;
+    padding-bottom: 10px;
+}
+
+.VersionChar {
+    font-family: Microsoft JhengHei;
+    font-size: 25px;
+}
+
+.Title {
+    font-size: 40px;
+    font-family: Simsun;
+}
+
+.bottom {
+    position: relative;
+    float: left;
+    margin-top: 0px;
+}

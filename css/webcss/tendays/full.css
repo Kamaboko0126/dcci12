@@ -1,0 +1,132 @@
+.Block {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+.BackgroundImg {
+    background-image: url(http://culture.ncut.edu.tw/dcci12/resource/tendays/background.jpg);
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+.WhiteBackground{
+    background-color: white;
+    max-width: 1422px;
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 12%;
+    width: 95%;
+}
+
+.MaxWidth {
+    width: 100%;
+    text-align: center;
+    max-width: 1422px;
+    display: inline-block;
+}
+
+.Width {
+    display: inline-block;
+    text-align: center;
+    width: 95%;
+    background-color: white;
+}
+
+.BannerPic, .CharPic {
+    width: 100%;
+    max-width: 1422px;
+    display: inline-block;
+}
+
+.Pad, .Phone {
+    display: none;
+}
+
+.Pic {
+    width: 100%;
+}
+
+.STitlePic {
+    margin-top: 5%;
+}
+
+.CharBlock {
+    text-align: left;
+}
+
+.TitlePic {
+    width: 20%;
+    margin: 8% 0 3% 3%;
+}
+
+.Char {
+    font-size: 25px;
+    font-family: Microsoft JhengHei;
+    line-height: 30px;
+}
+
+.GamePic {
+    margin-top: 10%;
+}
+
+.Title {
+    font-family: Microsoft JhengHei;
+    font-size: 40px;
+    font-weight: bolder;
+    padding: 5% 0;
+    background-color: #FFEFDE;
+    margin: 15% 0 5% 0;
+}
+
+.Green {
+    background-color: #E3FFE4;
+}
+
+.CardPic2 {
+    margin-top: 8%;
+}
+
+.Member {
+    display: inline-block;
+    width: 20%;
+}
+
+.Marginleft {
+    margin-left: 10%;
+}
+
+.MemberChar {
+    margin-top: 15%;
+}
+
+.bottom {
+    margin-top: 0px;
+}
+
+.Left {
+    float: left;
+    margin-left: 3%;
+    width: 17%;
+    font-weight: bolder;
+}
+
+.Right {
+    text-align: left;
+    float: right;
+    width: 80%;
+}
+
+.CharMarginleft {
+    margin-left: 7%;
+}
+
+.TOP{
+    display: inline-block;
+    width: 100%;
+}
+.BOTTOM{
+    display: inline-block;
+    width: 100%;
+}

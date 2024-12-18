@@ -1,0 +1,31 @@
+@media (max-width:600px) {
+    .Phone {
+        display: inline-block;
+    }
+
+    .Title {
+        font-size: 20px;
+    }
+
+    .Char {
+        font-size: 14px;
+    }
+
+    .Background {
+        margin-top: 50px;
+    }
+
+    .Background2 {
+        padding-bottom: 35%;
+    }
+
+    .bottomphone {
+        margin-top: 0;
+    }
+
+    .PC {
+        display: none;
+    }
+
+
+}

@@ -1,0 +1,254 @@
+body {
+    color: #466778;
+    font-family: Microsoft JhengHei;
+    font-weight: bold;
+}
+
+.FirstTitleBlock {
+    font-size: 40px;
+    text-align: center;
+    width: 100%;
+    background-color: #355B6F;
+    color: white;
+    margin: 4% 0;
+}
+
+.BannerBlock {
+    width: 100%;
+    text-align: center;
+}
+
+.Banner {
+    width: 100%;
+    display: inline-block;
+    max-width: 1422px;
+}
+
+.BannerPic {
+    width: 80%;
+    display: inline-block;
+}
+
+.CharBlock {
+    width: 100%;
+    text-align: center;
+    margin-top: 3%;
+}
+
+.Char {
+    font-size: 25px;
+}
+
+.BannerChar {
+    margin-top: 4%;
+}
+
+.LogoBlock {
+    width: 100%;
+    text-align: center;
+}
+
+.Logo {
+    width: 100%;
+    display: inline-block;
+    max-width: 1422px;
+}
+
+.LogoPic {
+    width: 20%;
+    margin: 5% 0 2.5% 0;
+}
+
+.Title {
+    font-size: 30px;
+    margin: 4% 0 2% 0;
+}
+
+.InterfaceBlock {
+    width: 100%;
+    text-align: center;
+}
+
+.Interface {
+    display: inline-block;
+    width: 100%;
+    max-width: 1422px;
+    text-align: center;
+}
+
+.InterfacePics {
+    width: 80%;
+    text-align: center;
+    display: inline-block;
+}
+
+.Left {
+    width: 30%;
+    display: inline-block;
+}
+
+.Middle {
+    width: 30%;
+    display: inline-block;
+    margin-left: 3%;
+}
+
+.Right {
+    width: 30%;
+    display: inline-block;
+    margin-left: 3%;
+}
+
+.InterfacePic {
+    width: 100%;
+}
+
+.InterfaceChar {
+    margin: 7% 0;
+}
+
+.CharacterBlcok {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+
+.Characters {
+    width: 100%;
+    max-width: 1422px;
+    text-align: center;
+    display: inline-block;
+}
+
+.CharacterLeft {
+    width: 23%;
+    display: inline-block;
+}
+
+.CharacterMiddle {
+    width: 23%;
+    display: inline-block;
+    margin-left: 5%;
+}
+
+.CharacterRight {
+    width: 23%;
+    display: inline-block;
+    margin-left: 5%;
+}
+
+.CharacterPic {
+    width: 100%;
+}
+
+.CharacterChar {
+    margin: 10% 0;
+}
+
+.ProductBlock {
+    width: 100%;
+    text-align: center;
+}
+
+.Products {
+    width: 100%;
+    max-width: 1422px;
+    text-align: center;
+    display: inline-block;
+}
+
+.ProductsTop {
+    width: 80%;
+    text-align: center;
+    display: inline-block;
+}
+
+.ProductPic {
+    width: 100%;
+    display: inline-block;
+}
+
+.ProductTop {
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+}
+
+.ProductsBottom {
+    width: 80%;
+    text-align: center;
+    display: inline-block;
+}
+
+.ProductBottom {
+    width: 30%;
+    display: inline-block;
+    text-align: center;
+}
+
+.ProductMarginLeft {
+    margin-left: 8%;
+}
+
+.ProductChar {
+    margin: 7% 0;
+}
+
+.MemberBlock {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.Members {
+    width: 100%;
+    max-width: 1422px;
+    text-align: center;
+    display: inline-block;
+}
+
+.MembersTop, .MembersMiddle, .MembersBottom {
+    width: 80%;
+    display: inline-block;
+    text-align: center;
+}
+
+.Member {
+    width: 25%;
+    display: inline-block;
+}
+
+.MemberPic {
+    width: 100%;
+    display: inline-block;
+}
+
+.MemberMarginLeft {
+    margin-left: 8%;
+}
+
+.MemberChar {
+    margin: 7% 0;
+}
+
+.MisstoryBottom{
+    width: 100%;
+    text-align: center;
+}
+
+.BottomPic{
+    width: 100%;
+    max-width: 1422px;
+    display: inline-block;
+}
+
+.Pad,.Phone{
+    display: none;
+}
+
+.bottom {
+    margin-top: 120px;
+}
+.headernav{
+    font-weight: normal;
+}

@@ -1,0 +1,70 @@
+@media (max-width:600px) {
+    .header {
+        display: none;
+    }
+    .NavBar {
+        display: block;
+        width: 100%;
+        z-index: 1;
+    }
+    .titleLOGO2 {
+        left: calc(50% - 125px);
+        width: 250px;
+        padding-top: 15.2px;
+        z-index: 2;
+    }
+    /* .bottom {
+        height: 140px;
+        width: 100vw;
+        background-color: #004156;
+        margin-top: 80px;
+        text-align: center;
+    }
+    .bottomHouse {
+        width: 100%;
+        margin-top: -60px;
+        max-width: 1416px;
+    } */
+    .navbar {
+        top: 45px;
+    }
+    .dropdown-item, .dropdown-item:hover {
+        font-size: 12px;
+    }
+    .navbar-dark {
+        font-size: 15px;
+    }
+    .navbar-toggler {
+        font-size: 0.9rem;
+        padding: 0.1rem 0.45rem;
+    }
+    .bottom, .bottompad {
+        display: none;
+    }
+    .bottomphone {
+        display: block;
+        background-color: #004156;
+        width: 100%;
+        text-align: center;
+        margin-top: 170px;
+    }
+    .bottomHouse3 {
+        margin-top: -130px;
+        width: 99%;
+        max-width: 472px;
+    }
+    .bottomChar3 {
+        width: 95%;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .navbar-light {
+        font-size: 19px;
+    }
+    .dropdown-item, .dropdown-item:hover {
+        font-size: 15px;
+    }
+    .englishicon{
+        width: 80px;
+    }
+}

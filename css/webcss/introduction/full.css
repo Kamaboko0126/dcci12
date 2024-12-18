@@ -1,0 +1,65 @@
+.AboutBody{
+    margin-top: 30px;
+}
+.AboutBackground{
+    width: 100%;
+    background-color: #004156;
+    height: 1873px;
+}
+.BackgroundImg{
+    margin-top: 50px;
+    max-width: 1421px;
+    width: 1200px;
+    position: relative;
+    left: calc(50% - 600px);
+}
+.PadBackgroundImg{
+    display: none;
+}
+.PhoneBackgroundImg{
+    display: none;
+}
+.Char{
+    position: relative;
+    margin-top: -1580px;
+    width: 900px;
+    left: calc(50% - 450px);
+}
+.AboutTitle{
+    font-size: 40px;
+    color: #004156;
+    font-family: Simsun;
+    border-bottom: 2px #004156 solid;
+}
+.AboutChar{
+    font-family: Microsoft JhengHei;
+    font-size: 25px;
+}
+.AboutLittleTitle
+{
+    border-left: 2px #000 solid;
+    line-height: 23px;
+    padding-left: 5px;
+    margin-bottom: 10px;
+
+    font-family: Microsoft JhengHei;
+}
+.AboutLittleChar{
+    font-family: Microsoft JhengHei;
+    margin-left: 5px;
+}
+.Slogan{
+    position: relative;
+    margin-top: 130px;
+    width: 932px;
+    left: calc(50% - 466px);
+}
+.bottom{
+    position: relative;
+    margin-top: 0px;
+}
+.block{
+    width: 100%;
+    height: 130px;
+}
+

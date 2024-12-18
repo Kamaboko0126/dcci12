@@ -1,0 +1,42 @@
+@media (max-width:600px) {
+    .bottomphone {
+        margin-top: 0;
+    }
+
+    .PadShow {
+        display: none;
+    }
+
+    .TitlePic {
+        width: 25%;
+        margin-left: -0.2%;
+    }
+
+    .Center {
+        text-align: center;
+    }
+
+    .Pad {
+        display: none;
+    }
+
+    .Phone {
+        display: inline-block;
+    }
+
+    .WhiteBackground {
+        padding-bottom: 40%;
+    }
+
+    .BackgroundImg {
+        margin-top: 50px;
+    }
+
+    .Char {
+        font-size: 14px;
+    }
+
+    .Title {
+        font-size: 20px;
+    }
+}

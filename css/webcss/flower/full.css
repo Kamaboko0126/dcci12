@@ -1,0 +1,210 @@
+ @media (min-width:1432px) {
+     .Width {
+         width: 1300px;
+     }
+
+     .Title {
+         font-size: 40px;
+         margin: 25px 0 0 0;
+     }
+
+     .AboutTitle {
+         margin: 25px 0;
+     }
+
+     .Char {
+         font-size: 25px;
+     }
+
+     .SeasonsBackground {
+         height: 750px;
+     }
+
+     .Pic {
+         width: 100%;
+         margin-top: 254px;
+     }
+
+     .MembersPic {
+         width: 1200px;
+         display: inline-block;
+     }
+ }
+
+ @media (max-width:1432px) {
+     .Width {
+         width: 1100px;
+     }
+
+     .Title {
+         font-size: 35px;
+         margin: 23px 0 0 0;
+     }
+
+     .AboutTitle {
+         margin: 23px 0;
+     }
+
+     .Char {
+         font-size: 23px;
+     }
+
+     .SeasonsBackground {
+         height: 650px;
+     }
+
+     .Pic {
+         width: 100%;
+         margin-top: 155px;
+     }
+
+     .MembersPic {
+         width: 1000px;
+         display: inline-block;
+     }
+ }
+
+ .SBlock {
+     width: 100%;
+     text-align: center;
+     display: inline-block;
+ }
+
+ .SMaxWidth {
+     width: 100%;
+     max-width: 1422px;
+     text-align: center;
+     display: inline-block;
+ }
+
+ .Width {
+     width: 80%;
+     display: inline-block;
+     text-align: center;
+ }
+
+ .FollowTitle {
+     text-align: center;
+     display: inline-block;
+     margin-top: 3%;
+ }
+
+ .FBIcon {
+     width: 14%;
+     margin-top: 3%;
+ }
+
+ .IGIcon {
+     margin-top: 2%;
+     width: 40%;
+ }
+
+ .Banner {
+     margin-top: 80px;
+     text-align: center;
+ }
+
+ .BannerPic {
+     width: 100%;
+     max-width: 1432px;
+ }
+
+ .AboutUsBody {
+     width: 100%;
+     text-align: center;
+     margin-top: 50px;
+ }
+
+ .AboutUs {
+     display: inline-block;
+     text-align: center;
+ }
+
+ .SeasonsBackground {
+     width: 100%;
+     text-align: center;
+ }
+
+ .SpringBackground {
+     background-color: #FFBBBB;
+ }
+
+ .SummerBackground {
+     background-color: #8BDADE;
+ }
+
+ .AutumnBackground {
+     background-color: #F2B376;
+ }
+
+ .WinterBackground {
+     background-color: #BFAEE0;
+ }
+
+ .Left {
+     width: 48%;
+     float: left;
+     text-align: left;
+ }
+
+ .Right {
+     width: 48%;
+     margin-left: 4%;
+     float: right;
+     text-align: left;
+ }
+
+ .AboutPic {
+     width: 100%;
+ }
+
+ .ProductIntroduction {
+     display: inline-block;
+ }
+
+ .Seasons {
+     text-align: center;
+     display: inline-block;
+ }
+
+ .Pic2 {
+     width: 45%;
+ }
+
+ .Title {
+     text-align: left;
+     font-family: 王漢宗粗明體繁;
+     color: white;
+ }
+
+ .BlackTitle {
+     color: black;
+ }
+
+ .Char {
+     text-align: left;
+     font-family: 王漢宗粗明體繁;
+ }
+
+ .MemberBody {
+     width: 100%;
+     text-align: center;
+ }
+
+ .MemberTitleBlock {
+     text-align: center;
+     display: inline-block;
+ }
+
+ .bottom {
+     margin-top: 150px;
+     position: relative;
+ }
+
+ .MembersPicPad, .MembersPicPhone {
+     display: none;
+ }
+
+ .Phone {
+     display: none;
+ }

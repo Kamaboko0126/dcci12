@@ -1,0 +1,233 @@
+body {
+    font-family: Microsoft JhengHei;
+    font-weight: bolder;
+}
+
+.BannerBlock {
+    text-align: center;
+}
+
+.Banner {
+    width: 100%;
+    max-width: 1422px;
+    display: inline-block;
+}
+
+.ProdustBlock {
+    width: 100%;
+    text-align: center;
+}
+
+.ProductTitleBlock {
+    width: 100%;
+    display: inline-block;
+}
+
+.Title {
+    font-size: 40px;
+    margin: 5% 0;
+}
+
+.Char {
+    font-size: 25px;
+}
+
+.ProductChar {
+    padding: 0.5% 0;
+    margin: 5% 0;
+    background-color: #D7C1A5;
+}
+
+.Products {
+    width: 60%;
+    text-align: center;
+    display: inline-block;
+}
+
+.ProductPicBlock {
+    max-width: 1422px;
+    display: inline-block;
+    text-align: center;
+}
+
+.Top, .Bottom {
+    width: 100%;
+}
+
+.Bottom {
+    margin-top: 8%;
+}
+
+.Left {
+    width: 46%;
+    display: inline-block;
+}
+
+.Right {
+    width: 46%;
+    display: inline-block;
+    margin-left: 4%;
+}
+
+.ProductPic {
+    width: 100%;
+}
+
+.IntroductionBackground {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    background-color: #919C93;
+}
+
+.IntroductionChar {
+    text-align: left;
+    color: white;
+    padding: 2% 6%;
+}
+
+.IntroductionTitle {
+    color: white;
+}
+
+.IntroductionBlock {
+    max-width: 1422px;
+    text-align: center;
+    display: inline-block;
+}
+
+.IntroductionLeft {
+    width: 60%;
+    display: inline-block;
+    float: left;
+}
+
+.IntroductionRight {
+    width: 40%;
+    display: inline-block;
+    float: right;
+}
+
+.IntroductionPic {
+    width: 100%;
+}
+
+.ForgetTitleBlock {
+    width: 100%;
+    text-align: center;
+}
+
+.ForgetTitle {
+    padding: 6% 0;
+}
+
+.MemberBlock {
+    width: 100%;
+    text-align: center;
+    background-color: #D2CBC1;
+}
+
+.Member {
+    display: inline-block;
+    max-width: 1422px;
+    width: 100%;
+}
+
+.MemberLeft {
+    width: 50%;
+    display: inline-block;
+    float: left;
+}
+
+.MembersPic {
+    width: 100%;
+    display: inline-block;
+}
+
+.MemberRight {
+    width: 50%;
+    display: inline-block;
+}
+
+.MemberRightTop {
+    width: 100%;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.MemberRightBottom {
+    margin-top: 10%;
+}
+
+.Members {
+    width: 20%;
+    display: inline-block;
+}
+
+.MemberPic {
+    width: 100%;
+}
+
+.MarginLeft {
+    margin-left: 4%;
+}
+
+.MarginTop1 {
+    margin-top: 35%;
+}
+
+.MarginTop2 {
+    margin-top: 12%;
+}
+
+.ContactBlock {
+    width: 100%;
+    text-align: center;
+}
+
+.Contact {
+    max-width: 1422px;
+    text-align: center;
+    display: inline-block;
+}
+
+.ContactBolder {
+    width: 80%;
+    border-top: solid #000 3px;
+    display: inline-block;
+    padding-top: 5%;
+}
+
+.ContactLeft {
+    width: 20%;
+    display: inline-block;
+}
+
+.ContactMiddle {
+    width: 40%;
+    display: inline-block;
+}
+
+.ContactRight {
+    width: 20%;
+    display: inline-block;
+}
+
+.Pic {
+    width: 100%;
+}
+
+.ContactMarginLeft {
+    margin-left: 6%;
+}
+
+.ContactTitle {
+    margin: 15% 0 1% 0;
+}
+
+.bottom {
+    margin-top: 110px;
+}
+.Pad{
+    display: none;
+}

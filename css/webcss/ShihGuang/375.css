@@ -1,0 +1,150 @@
+@media (max-width:600px) {
+    .BannerPic {
+        margin-top: 50px;
+    }
+
+    .Char {
+        width: 300px;
+        display: inline-block;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .Left {
+        width: 145px;
+    }
+
+    .Title {
+        margin-top: 15px;
+        font-size: 20px;
+        margin-bottom: 9px;
+    }
+
+    .LeftChar {
+        padding: 5px 10px;
+    }
+
+    .char {
+        font-size: 14px;
+    }
+
+    .RightPic {
+        margin-top: 12.5px;
+        margin-left: 10px;
+        width: 145px;
+    }
+
+    .RightCharPic {
+        display: none;
+    }
+
+    .PhoneRightCharPic {
+        margin-top: 20px;
+        display: inline-block;
+        width: 145px;
+        margin-left: 10px;
+    }
+
+    .MemberTitle {
+        width: 300px;
+        margin-bottom: 10px;
+    }
+
+    .PcMemberPic {
+        display: none;
+    }
+
+    .PadMemberPic {
+        display: none;
+    }
+
+    .PhoneMemberPic {
+        display: inline-block;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .CommodityBlock {
+        display: none;
+    }
+
+    .PhoneCommodityBlock {
+        display: inline-block;
+        text-align: center;
+        width: 100%;
+    }
+
+    .PhoneCommodityBackGround {
+        display: inline-block;
+        background-color: #BDA88F;
+        width: 300px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .Phonecommoditys {
+        display: inline-block;
+        width: 260px;
+    }
+
+    .PhoneCommodity1 {
+        margin-top: 20px;
+    }
+
+    .CommodityChar {
+        width: 260px;
+        background-color: rgba(232, 232, 232, 0.56);
+        font-size: 14px;
+        font-family: Microsoft JhengHei;
+        font-weight: bolder;
+        padding: 3px 0px;
+        margin: 12px 0px 15px 0px;
+    }
+
+    .PhoneIG {
+        width: 260px;
+    }
+
+    .PhoneIGChar {
+        margin: 15px 0px;
+    }
+    .PhoneQRCodeBlock{
+        display: inline-block;
+        text-align: center;
+        width: 260px;
+    }
+    .PhoneQRcode{
+        width: 100px;
+    }
+    .PhoneQRcode1{
+        float: left;
+        margin-left: 10px;
+    }
+    .PhoneQRcode2{
+        float: right;
+        margin-right: 10px;
+    }
+    .PhoneQRcodeChar{
+        font-family: Microsoft JhengHei;
+        font-weight: bolder;
+        font-size: 12px;
+        background-color: rgba(232, 232, 232, 0.56);
+    }
+    .PhoneQRcodeChar1{
+        float: left;
+        margin-top: 12px;
+        margin-left: 7px;
+    }
+    .PhoneQRcodeChar2{
+        margin-top: 12px;
+        margin-right: 10px;
+        float: right;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width:375px) {
+    .BannerPic {
+        margin-top: 35px;
+    }
+}

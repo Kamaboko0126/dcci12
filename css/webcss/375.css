@@ -1,0 +1,36 @@
+@media (max-width:375px) {
+    .header {
+        display: none;
+    }
+    .NavBar {
+        display: block;
+        width: 100%;
+    }
+    .titleLOGO2 {
+        position: absolute;
+        left: calc(50% - 100px);
+        width: 200px;
+        padding-top: 15.35px;
+    }
+    .navbar {
+        top: 32px;
+    }
+    /* .bottom {
+        height: 120px;
+        width: 100vw;
+        background-color: #004156;
+        margin-top: 80px;
+        text-align: center;
+    }
+    .bottomHouse {
+        width: 100%;
+        margin-top: -50px;
+        max-width: 1416px;
+    } */
+    .bottom,.bottompad{
+        display: none;
+    }
+    .englishicon{
+        width: 70px;
+    }
+}

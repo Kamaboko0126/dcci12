@@ -1,0 +1,90 @@
+@media (max-width:1023px) {
+    .headernav {
+        width: 120px;
+        border-top: 2.5px #004156 solid;
+        border-bottom: 2.5px #004156 solid;
+        font-size: 23px;
+        padding: 10px 0 10px 0;
+        float: left;
+        font-family: Microsoft JhengHei;
+        color: #004156;
+    }
+    .header {
+        text-align: center;
+        width: 100%;
+        height: 175px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .headernav:hover, .headernav:focus {
+        background-color: rgba(0, 65, 86, 0.3);
+        color: #004156;
+    }
+    .titleLOGO {
+        width: 160px;
+        height: 160px;
+        float: left;
+        margin: 0 45px 0 45px;
+    }
+    a {
+        text-decoration: none;
+        color: black;
+    }
+    a:hover {
+        color: black;
+    }
+    .bottom {
+        width: 100%;
+        background-color: #004156;
+        margin-top: 100px;
+        text-align: center;
+    }
+    .bottomHouse {
+        width: 99%;
+        margin-top: -100px;
+        max-width: 1416px;
+    }
+    .bottomChar {
+        width: 95%;
+        max-width: 1201px;
+    }
+    .NavBar {
+        display: none;
+    }
+    .bottompad,.bottomphone {
+        display: none;
+    }
+    .btn-secondary {
+        background-color: white;
+        border-left: 0;
+        border-right: 0;
+    }
+    .btn{
+        border-radius: 0;
+    }
+    .info:hover::before {
+        position: absolute;
+        top: -27px;
+        left: 2.5px;
+        color: #004156;
+        font-size: 15px;
+        padding: 5px;
+        content: '展覽各類別資訊';
+    }
+    .dropdown-item{
+        font-size: 20px;
+        color: #004156;
+        font-family:Microsoft JhengHei;
+    }
+    .dropdown-item:hover{
+        background-color: rgba(0, 65, 86, 0.7);
+        color: white;
+    }
+    .englishicon{
+        width: 90px;
+        position: absolute;
+        top: -60px;
+        left: 30px;
+    }
+}
